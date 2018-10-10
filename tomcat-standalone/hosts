@@ -1,0 +1,6 @@
+#[tomcat-server]
+#webserver1
+
+[tomcat-servers]
+shakeelj6.mylabserver.com
+
